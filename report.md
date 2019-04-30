@@ -62,12 +62,12 @@ run_process()內容：
 ---
 <h3>組員貢獻</h3>
 
-架構圖、架構設計：李豈翔、林震
-coding：李豈翔
-scheduling emulation function: 林震
-next_process function: 林震
-report.md：李豈翔
-schedule_simulation.c 賴億泓
+架構圖、架構設計：李豈翔、林震  
+coding：李豈翔  
+scheduling emulation function: 林震  
+next_process function: 林震  
+report.md：李豈翔  
+schedule_simulation.c 賴億泓  
 
 
 <h4>Reference:</h4>
