@@ -68,6 +68,7 @@ scheduling emulation function: 林震
 next_process function: 林震  
 report.md：李豈翔  
 schedule_simulation.c 賴億泓  
+github repository: 林秉駿  
 
 
 <h4>Reference:</h4>
