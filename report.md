@@ -65,12 +65,8 @@ run_process()內容：
 架構圖、架構設計：李豈翔、林震  
 coding：李豈翔  
 scheduling emulation function: 林震  
-next_process function: 林震  
+next_process function: 林震、顏楷侖  
 report.md：李豈翔  
 schedule_simulation.c 賴億泓  
-github repository: 林秉駿  
-discord server: 柏升
-
-<h4>Reference:</h4>
-
-	https://github.com/andy920262/OS2016  參考的code
+process.c  process.h input處理 reference提供: 黃柏升  
+github repository:林秉駿  
